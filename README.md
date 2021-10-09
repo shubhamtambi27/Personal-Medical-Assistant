@@ -1,1 +1,5 @@
 # Personal-Medical-Assistant
+
+**About Project**:- This is a web portal namely Personal Medical Assistant which predicts the disease on the basis of the symptoms provided by the user. The web portal asks the user for the symptoms experienced by him/her and based on the user inputs it predicts the disease the user may be suffering from. The front end of the portal is designed using web technologies namely HTML, CSS, JavaScript, and is hosted on an Apache web server on the top of a Red Hat-based operating system. In the backend, the portal mainly uses Python as a programming language. Based on the User Input/Inputs the backend program predicts the results using three well-known algorithms namely Decision Tree Algorithm, Random Forest Algorithm, Naive Bayes Algorithm each having an efficiency of more than 95%, and then the result is being shown out of the best among the three which will further increase the efficiency. Moreover, the dataset used for the training has 100+ records of different diseases and symptoms for better prediction of results.
+
+**Technologies Used**:- Machine Learning, Deep Learning, Python, RHEL8, devops and Web Technologies 
